@@ -1,7 +1,7 @@
 # Warehouse_4.0
 
 In this version all code was refactored into oop system.  
-Features are the same from previous verion (Warehouse 3.0)
+Features are the same from previous verion (Warehouse 3.0)  
 Main code inside query.py
 
 
